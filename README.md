@@ -9,6 +9,7 @@ Welcome to my **LeetCode Solutions** repository! This repository is dedicated to
     - `index.ts`: TypeScript solution.
     - `index.js`: JavaScript solution.
     - `main.py`: Python solution.
+    - `main.rs`: Rust solution.
     - `README.md`: Problem description and details.
 
 ## How to Use
