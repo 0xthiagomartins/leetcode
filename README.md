@@ -6,10 +6,13 @@ Welcome to my **LeetCode Solutions** repository! This repository is dedicated to
 
 - **`codes/`**: Contains solutions for different LeetCode problems.
   - **`two-sum/`**: Solutions for the [Two Sum](https://leetcode.com/problems/two-sum/) problem.
-    - `index.ts`: TypeScript solution. (node filepath)
-    - `index.js`: JavaScript solution. (ts-node filepath)
+    - `index.js`: TypeScript solution. (node filepath)
+    - `index.ts`: JavaScript solution. (ts-node filepath)
     - `__main__.py`: Python solution. (python3 filepath)
     - `main.rs`: Rust solution. (cargo script filepath)
+    - `Main.java`: Java solution.
+      - Compile with `javac Main.java`
+      - Run with `java Main`
     - `README.md`: Problem description and details.
 
 ## How to Use
